@@ -13,6 +13,10 @@ then setup a .env file
 with these requried setups
 
 \\ fill these in the required things in .env 
+
+
+
+
 PORT=4000
 MONGO_URI=
 
