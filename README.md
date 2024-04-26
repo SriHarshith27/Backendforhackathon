@@ -1,5 +1,5 @@
 
-Please read this code format than in review for better visibility and understanding
+Please read this in code format than in preview for better visibility and understanding
 
 Hlo i am Harshith Student from KL University this is my backend or server side code for my project
 TEAM mates
