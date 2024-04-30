@@ -22,7 +22,7 @@ app.use(morgan('dev'));
 //app.use(cors({ origin: ['http://localhost:5173/', 'http://localhost:3000/'], credentials: true }));
 
 app.use(cors({
-    origin: ['https://frontendforhackathon-2aowlpcgf-harshiths-projects-b45abe4b.vercel.app/', 'https://myproject-2200090170.onrender.com/'],
+    origin: ['https://frontendforhackathon.vercel.app/', 'https://myproject-2200090170.onrender.com/'],
     credentials: true
   }));
   
