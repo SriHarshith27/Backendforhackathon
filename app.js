@@ -34,7 +34,7 @@ app.use('/api/v1/', miscellaneousRoutes);
  
 
 app.all('*', (req, res) => {
-    res.status(404).send('OOPS!! 404 page not found');
+    res.status(404).send('Server!! Running Successfully');
 })
 
 app.use(errorMiddleware);
